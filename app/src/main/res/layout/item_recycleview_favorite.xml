@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true">
+        <TextView
+            android:id="@+id/tv_favorite_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="收藏时间"
+            android:layout_alignTop="@+id/tv_newslistfragment_favorite"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="15dp" />
+
+        <TextView
+            android:id="@+id/tv_newslistfragment_favorite"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="knklkslmnkxlnsjlxm"
+            android:textSize="10sp"
+            android:layout_alignBottom="@+id/iv_newslistfragment_favorite"
+            android:layout_alignStart="@+id/tv_newsliatfragment_favorite"
+            android:layout_marginBottom="10dp" />
+
+        <TextView
+            android:id="@+id/tv_newsliatfragment_favorite"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:maxLines="2"
+            android:text="标题"
+            android:textSize="15sp"
+            android:layout_alignParentTop="true"
+            android:layout_toEndOf="@+id/iv_newslistfragment_favorite"
+            android:layout_marginStart="12dp" />
+
+        <ImageView
+            android:id="@+id/iv_newslistfragment_favorite"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@mipmap/ic_launcher"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="11dp" />
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "E:\\Studio\\News\\JPushExample\\build\\intermediates\\res\\merged\\debug\\layout\\set_push_time.xml",
+        "source": "E:\\Studio\\News\\JPushExample\\res\\layout\\set_push_time.xml"
+    },
+    {
+        "merged": "E:\\News\\JPushExample\\build\\intermediates\\res\\merged\\debug\\layout\\set_push_time.xml",
+        "source": "E:\\News\\JPushExample\\res\\layout\\set_push_time.xml"
+    },
+    {
+        "merged": "E:\\Studio\\News\\JPushExample\\build\\intermediates\\res\\merged\\debug\\layout\\customer_notitfication_layout.xml",
+        "source": "E:\\Studio\\News\\JPushExample\\res\\layout\\customer_notitfication_layout.xml"
+    },
+    {
+        "merged": "E:\\Studio\\News\\JPushExample\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_webview_layout.xml",
+        "source": "E:\\Studio\\News\\JPushExample\\res\\layout\\jpush_webview_layout.xml"
+    },
+    {
+        "merged": "E:\\News\\JPushExample\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_popwin_layout.xml",
+        "source": "E:\\News\\JPushExample\\res\\layout\\jpush_popwin_layout.xml"
+    },
+    {
+        "merged": "E:\\Studio\\News\\JPushExample\\build\\intermediates\\res\\merged\\debug\\layout\\customer_notitfication_layout_one.xml",
+        "source": "E:\\Studio\\News\\JPushExample\\res\\layout\\customer_notitfication_layout_one.xml"
+    },
+    {
+        "merged": "E:\\News\\JPushExample\\build\\intermediates\\res\\merged\\debug\\layout\\customer_notitfication_layout_one.xml",
+        "source": "E:\\News\\JPushExample\\res\\layout\\customer_notitfication_layout_one.xml"
+    },
+    {
+        "merged": "E:\\Studio\\News\\JPushExample\\build\\intermediates\\res\\merged\\debug\\layout\\push_set_dialog.xml",
+        "source": "E:\\Studio\\News\\JPushExample\\res\\layout\\push_set_dialog.xml"
+    },
+    {
+        "merged": "E:\\News\\JPushExample\\build\\intermediates\\res\\merged\\debug\\layout\\push_set_dialog.xml",
+        "source": "E:\\News\\JPushExample\\res\\layout\\push_set_dialog.xml"
+    },
+    {
+        "merged": "E:\\News\\JPushExample\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_webview_layout.xml",
+        "source": "E:\\News\\JPushExample\\res\\layout\\jpush_webview_layout.xml"
+    },
+    {
+        "merged": "E:\\News\\JPushExample\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\News\\JPushExample\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\Studio\\News\\JPushExample\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_popwin_layout.xml",
+        "source": "E:\\Studio\\News\\JPushExample\\res\\layout\\jpush_popwin_layout.xml"
+    },
+    {
+        "merged": "E:\\Studio\\News\\JPushExample\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\Studio\\News\\JPushExample\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\News\\JPushExample\\build\\intermediates\\res\\merged\\debug\\layout\\customer_notitfication_layout.xml",
+        "source": "E:\\News\\JPushExample\\res\\layout\\customer_notitfication_layout.xml"
+    }
+]
